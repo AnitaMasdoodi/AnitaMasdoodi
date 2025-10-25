@@ -29,7 +29,3 @@
 📧 **anitamasdoodi.2000@gmail.com**  
 🌐 [LinkedIn](https://www.linkedin.com/in/anita-masdoodi-0ab61929b/)  
 🐙 [GitHub](https://github.com/AnitaMasdoodi)
-
----
-
-<p align="center">⭐ Always learning, always building.</p>
