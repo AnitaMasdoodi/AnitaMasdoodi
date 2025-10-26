@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Anita Masdoodi</h1>
 
 <p align="center">
-  💻 <strong>Backend Developer</strong> | Python & Django Enthusiast  
+  💻 <strong>Backend Developer</strong> | Python & Django
 </p>
 
 ---
