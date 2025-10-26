@@ -36,16 +36,11 @@
 
 <p align="left">
   <!-- GitHub readme stats: replace USERNAME -->
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true&theme=dark" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnitaMasdoodi&show_icons=true&count_private=true&theme=dark" />
 
   <!-- Top languages -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaMasdoodi&layout=compact&theme=dark" />
 </p>
-
----
-
-### 🧩 Tech Stack
-`Python` | `Django REST Framework` | `PostgreSQL` | `Docker` | `Git` | `Linux`
 
 ---
 
