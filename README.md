@@ -10,7 +10,7 @@
 - 🔭 I’m currently building **Mini Divar API** — a scalable classified ads backend using **Django REST Framework**, **PostgreSQL**, and **Docker**.  
 - 🌱 Constantly learning more about **API design**, **authentication systems**, and **clean architecture**.  
 - ⚙️ I enjoy turning ideas into real, working products — from models to production-ready REST APIs.  
-- ☕ Love quiet coding sessions, deep debugging, and elegant code.
+- 💖 Love quiet coding sessions, deep debugging, and elegant code.
 
 ---
 
