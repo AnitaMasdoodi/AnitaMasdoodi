@@ -52,6 +52,6 @@
 ---
 
 ### 📫 Connect With Me
-📧 **anitamasdoodi.2000@gmail.com**  
+📧 **anita.masdoodi.dev@gmail.com**  
 🌐 [LinkedIn](https://www.linkedin.com/in/anita-masdoodi-0ab61929b/)  
 🐙 [GitHub](https://github.com/AnitaMasdoodi)
