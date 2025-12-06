@@ -49,8 +49,10 @@
 
 ## 📊 GitHub Stats
 
-![Repos](https://img.shields.io/github/repos/anitasmasdoodi/AnitaMasdoodi?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/AnitaMasdoodi?style=for-the-badge)
+<div align="left">
+  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=AnitaMasdoodi&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaMasdoodi&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
 ---
 
