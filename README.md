@@ -11,7 +11,7 @@
 <h2 align="center">
   💻 <strong>Backend Developer</strong> | Python & Django
 </h2>
----
+
 ### 🧠 About Me
 - 🔭 I’m currently building **Mini Divar API** — a scalable classified ads backend using **Django REST Framework**, **PostgreSQL**, and **Docker**.  
 - 🌱 Constantly learning more about **API design**, **authentication systems**, and **clean architecture**.  
@@ -49,15 +49,8 @@
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AnitaMasdoodi&show_icons=true&count_private=true&theme=dark&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats" />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaMasdoodi&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
-    alt="Top Languages" />
-</div>
+![Repos](https://img.shields.io/github/repos/anitasmasdoodi/AnitaMasdoodi?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/AnitaMasdoodi?style=for-the-badge)
 
 ---
 
