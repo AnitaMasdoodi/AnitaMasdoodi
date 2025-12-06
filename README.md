@@ -12,8 +12,6 @@
   💻 <strong>Backend Developer</strong> | Python & Django
 </h2>
 
----
-
 ### 🧠 About Me
 - 🔭 I’m currently building **Mini Divar API** — a scalable classified ads backend using **Django REST Framework**, **PostgreSQL**, and **Docker**.  
 - 🌱 Constantly learning more about **API design**, **authentication systems**, and **clean architecture**.  
@@ -25,7 +23,11 @@
 ## 🛠️ Languages & Tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,python,django,postgresql,api,redis,pandas,numpy,matplotlib)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,python,django,postgresql,redis)](https://skillicons.dev)
+![REST API](https://img.shields.io/badge/-REST%20API-005f73?style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square)
 
 
 <p align="left">
