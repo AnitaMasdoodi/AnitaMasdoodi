@@ -25,7 +25,6 @@
 
 <p align="left">
 
-  <!-- Skillicons (inline images) -->
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
@@ -34,12 +33,11 @@
   <img src="https://skillicons.dev/icons?i=django" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=redis" width="48" height="48"/>
-
-  <!-- Devicons (P icons you wanted) -->
+  <img src="https://img.icons8.com/color/48/api.png" width="48" height="48"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/api.png" width="48" height="48"/>
 
 </p>
 
