@@ -69,8 +69,8 @@
 
 ### 🚀 Featured Projects
 - 🏙️ [Mini Divar API](https://github.com/AnitaMasdoodi/mini-divar-django) — Classified ads backend with pagination, Docker setup, and JWT authentication (in progress)
-- 🤖 [Gender Prediction Model](https://github.com/AnitaMasdoodi/gender-prediction-ml) — Machine learning model predicting gender from height & weight data
 - 📝 [Django Blog](https://github.com/AnitaMasdoodi/Blog) — Full-featured blog with posts, categories, comments, likes, search, pagination, and Django Allauth authentication
+- 🤖 [Gender Prediction Model](https://github.com/AnitaMasdoodi/gender-prediction-ml) — Machine learning model predicting gender from height & weight data
 
 ---
 
