@@ -1,10 +1,12 @@
-<h1 align="center">👋 Hi, I'm Anita Masdoodi</h1>
+<h1 align="center">👋 Welcome to my GitHub Profile</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Anita+Masdoodi;Backend+Developer+%7C+Python+&+Django)](https://git.io/typing-svg)
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Anita+Masdoodi;Backend+Developer+%7C+Python+%26+Django)](https://git.io/typing-svg)
+</div>
 
-<p align="center">
+<h2 align="center">
   💻 <strong>Backend Developer</strong> | Python & Django
-</p>
+</h2>
 
 ---
 
