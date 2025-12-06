@@ -1,7 +1,9 @@
 <h1 align="center">👋 Welcome to my GitHub Profile</h1>
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Anita+Masdoodi;Backend+Developer+%7C+Python+%26+Django)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Anita+Masdoodi;Backend+Developer+%7C+Python+%26+Django">
+  </a>
 </div>
 
 <h2 align="center">
