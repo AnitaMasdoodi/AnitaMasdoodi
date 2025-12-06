@@ -23,6 +23,27 @@
 ## 🛠️ Languages & Tools
 
 
+<p align="left">
+
+  <!-- Skillicons (inline images) -->
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=django" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48"/>
+
+  <!-- Devicons (P icons you wanted) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/api.png" width="48" height="48"/>
+
+</p>
+
+
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,python,django,postgresql,redis)](https://skillicons.dev)
 ![REST API](https://img.shields.io/badge/-REST%20API-005f73?style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -45,14 +66,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" width="50" height="50"/>
 </p>
 
----
 
-## 📊 GitHub Stats
+<!-- <p align="left"> -->
+<!-- GitHub readme stats: replace USERNAME -->
+<!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnitaMasdoodi&show_icons=true&count_private=true&theme=dark" /> -->
 
-<div align="left">
-  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=AnitaMasdoodi&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaMasdoodi&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+<!-- Top languages -->
+<!-- <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaMasdoodi&layout=compact&theme=dark" /> -->
+<!-- </p> -->
 
 ---
 
