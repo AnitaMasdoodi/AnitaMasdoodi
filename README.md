@@ -49,11 +49,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=AnitaMasdoodi&show_icons=true&count_private=true&theme=dark" />
+<div align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AnitaMasdoodi&show_icons=true&count_private=true&theme=dark&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats" />
 
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaMasdoodi&layout=compact&theme=dark" />
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaMasdoodi&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
+    alt="Top Languages" />
+</div>
 
 ---
 
