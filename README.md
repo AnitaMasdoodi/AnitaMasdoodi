@@ -6,6 +6,8 @@
   </a>
 </div>
 
+---
+
 <h2 align="center">
   💻 <strong>Backend Developer</strong> | Python & Django
 </h2>
@@ -21,6 +23,10 @@
 ---
 
 ## 🛠️ Languages & Tools
+
+
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,python,django,postgresql,api,redis,pandas,numpy,matplotlib)](https://skillicons.dev)
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
