@@ -17,6 +17,7 @@
 - 🌱 Constantly learning more about **API design**, **authentication systems**, and **clean architecture**.  
 - ⚙️ I enjoy turning ideas into real, working products — from models to production-ready REST APIs.  
 - 💖 Love quiet coding sessions, deep debugging, and elegant code.
+- 🤖 I’m highly interested in **Machine Learning** and I'm planning to learn it deeply.
 
 ---
 
