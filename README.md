@@ -76,6 +76,14 @@
   <img src="https://github-profile-trophy.vercel.app?username=AnitaMasdoodi&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+<div align="center">
+
+![Anita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnitaMasdoodi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnitaMasdoodi&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 ---
 
 ### 🚀 Featured Projects
