@@ -75,8 +75,8 @@
 ### 🚀 Featured Projects
 - 🏙️ [Mini Divar API](https://github.com/AnitaMasdoodi/mini-divar-django) — Classified ads backend with pagination, Docker setup, and JWT authentication (in progress)
 - 📝 [Django Blog](https://github.com/AnitaMasdoodi/Blog) — Full-featured blog with posts, categories, comments, likes, search, pagination, and Django Allauth authentication
-- 🛒 [Online Shop SSR](https://github.com/YourUsername/multi-shop) — Educational e-commerce project with SSR, Shaparak payment, SMS OTP, cart, pagination, comments, and categories  
-- 🛍️ [Online Shop REST API](https://github.com/YourUsername/OnlineKala) — Educational RESTful e-commerce API with JWT authentication, cart, pagination, filters, comments, categories, Swagger documentation, and PostgreSQL
+- 🛒 [Online Shop SSR](https://github.com/AnitaMasdoodi/multi-shop) — Educational e-commerce project with SSR, Shaparak payment, SMS OTP, cart, pagination, comments, and categories  
+- 🛍️ [Online Shop REST API](https://github.com/AnitaMasdoodi/OnlineKala) — Educational RESTful e-commerce API with JWT authentication, cart, pagination, filters, comments, categories, Swagger documentation, and PostgreSQL
 
 - 🤖 [Gender Prediction Model](https://github.com/AnitaMasdoodi/gender-prediction-ml) — Machine learning model predicting gender from height & weight data
 
